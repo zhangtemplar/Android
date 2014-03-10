@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sharing Simple Data</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="send">Send</string>
+    <string name="send_to">Send text to</string>
+    <string name="send_multiple">Send All</string>
+    <string name="send_hint">Put your messsage here</string>
+    <string name="default_message">No message received</string>
+    <string name="forward_text">Forward the message</string>
+
+</resources>
